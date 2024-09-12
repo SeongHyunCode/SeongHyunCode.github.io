@@ -1,5 +1,5 @@
 ---
-title: Java로 if문을 배워보자
+title: Java의 switch문을 사용해보자
 date: 2024-09-12 11:10:33 +09:00
 categories: [Java]
 tags:
